@@ -1,17 +1,20 @@
 ### Hi, I'm Fajar Dzulnufrie Hafriadi 👋
+<hr>
 
-<!--
-**dzgif/dzgif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzgif&theme=great-gatsby&show_icons=true"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzgif&layout=compact&theme=great-gatsby&show_icons=true" witdh="25" height="150">
 
 - 🔭 I’m currently studying on Universitas Tadulako
 - 🌱 I’m currently learning other programming language
+
 ### Im Selling 💲
 <a href="https://instagram.com/dzst0re">
   <img align="center" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"> </a>
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dzgif&theme=great-gatsby&show_icons=true"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzgif&layout=compact&theme=great-gatsby&show_icons=true">
+### Operating System
+<img align="center" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"> <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img align="center" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+
+<hr>
+
+### Here's My Stat's
+
