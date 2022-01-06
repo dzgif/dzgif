@@ -1,7 +1,7 @@
 ### Hi, I'm Fajar Dzulnufrie Hafriadi 👋
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzgif&theme=great-gatsby&show_icons=true"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzgif&layout=compact&theme=great-gatsby&show_icons=true" witdh="25" height="150">
+<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=dzgif&theme=great-gatsby&show_icons=true"> <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzgif&layout=compact&theme=great-gatsby&show_icons=true">
 
 - 🔭 I’m currently studying on Universitas Tadulako
 - 🌱 I’m currently learning other programming language
